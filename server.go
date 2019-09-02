@@ -1,7 +1,7 @@
 package main
 
 import (
-	"azuretextanalysis"
+	azuretextanalysis "azuretextanalysis/AzureTextAnalysis"
 	"html/template"
 	"net/http"
 )
